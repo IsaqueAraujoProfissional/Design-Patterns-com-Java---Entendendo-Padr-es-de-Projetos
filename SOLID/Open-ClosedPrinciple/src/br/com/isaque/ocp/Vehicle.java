@@ -1,6 +1,8 @@
 package br.com.isaque.ocp;
 
 public class Vehicle {
+    //Classe Vehicle mal feita, não há herança nem uso de Interface
+    //Forma ruim de escrver um código
     private String color;
     private String year;
     private double engine;
